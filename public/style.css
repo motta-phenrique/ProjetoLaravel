@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+.container{
+    padding: 20px;
+    margin: 0 auto;
+    width: 900px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
